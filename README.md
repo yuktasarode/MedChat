@@ -1,6 +1,6 @@
 # La-Med
 
-A fined-tuned LLM (Llama Model) on a medical dataset using LoRA, SFT, PEFT
+A fined-tuned LLM (Llama Model) on a medical dataset using PEFT technique called QLoRA and SFT
 
 Model Link : https://huggingface.co/yuktasarode/Llama-2-7b-chat-finetune/tree/main
 
