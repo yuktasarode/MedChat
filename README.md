@@ -1,4 +1,4 @@
-# La-Med
+# MedChat
 
 A fined-tuned LLM (Llama Model) on a medical conversation dataset using PEFT technique called QLoRA and SFT
 
